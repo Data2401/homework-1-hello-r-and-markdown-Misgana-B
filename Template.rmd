@@ -1,6 +1,6 @@
 ---
 title: "Hello R"
-author: "Your Name Goes Here"
+author: "Misgana Bekele"
 date: "Data 2401"
 output: html_document
 ---
@@ -17,7 +17,7 @@ library(datasauRus)
 
 ### Exercise 1
 
-(Type your answer to Exercise 1 here. This exercise does not require any R code. **Remove notes like this in the final product that you turn in**)
+The datasaurus_dozen dataset has 1846 rows and 3 columns. It included three variable: dataset, x, and y.
 
 ### Exercise 2
 
@@ -74,3 +74,4 @@ I'm some text, you should replace me with more meaningful text...
 ### Exercise 5
 
 (Add code and narrative as needed. To add R chunks either type out the backticks, curly braces, and the letter `r` or use the Insert chunk button above, with the green +C.)
+
