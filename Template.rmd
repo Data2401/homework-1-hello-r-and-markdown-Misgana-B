@@ -2,7 +2,10 @@
 title: "Hello R"
 author: "Misgana  Bekele"
 date: "Data 2401"
-output: html_document
+output: 
+  html_document: 
+    fig_width: 8
+    fig_height: 6
 ---
 
 MAKE SURE YOU READ AND FOLLOW **ALL** INSTRUCTIONS ON THE INSTRUCTION DOCUMENT. 
